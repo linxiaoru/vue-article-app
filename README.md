@@ -1,4 +1,7 @@
-# vue-article
+###自己写的一个小项目，还有要完善的地方，具体的过程会慢慢记录下来的
+
+
+# vue-article-app
 
 > A Vue.js project
 
