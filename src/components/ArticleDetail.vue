@@ -3,7 +3,7 @@
 	<div class="container">
 		<normalNavbar></normalNavbar>
 
-		<div class="loading" v-if="loading">
+		<div class="loading text-center" v-if="loading">
 			加载中。。。
 		</div>
 
